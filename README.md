@@ -1,2 +1,2 @@
 # AspNetMicroservices
-Microservices deno with ASP.Net
+Microservices demoo repositorie for some microservices built with ASP.Net
